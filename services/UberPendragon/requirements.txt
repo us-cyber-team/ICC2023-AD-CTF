@@ -1,5 +1,5 @@
-cryptography==39.0.2
-Pillow==9.5.0
-pycryptodome==3.16.0
+cryptography==42.0.4
+Pillow==10.3.0
+pycryptodome==3.19.1
 requests==2.31.0
 fastecdsa==2.2.3
